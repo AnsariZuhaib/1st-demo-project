@@ -8,3 +8,5 @@ update : added role base access control
 project is still under active development ---- more features are upcoming
 update : added the time feature in transaction history
 project is still under active development ---- more features are upcoming
+update : added transaction pin and pin attempts 
+project is still under active development ---- more features are upcoming
